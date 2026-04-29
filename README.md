@@ -1,53 +1,34 @@
-Atharva Chavhan
-📧 Email: chavhanayc@gmail.com
-📞 Phone: +91 7678052548
+# Hi 👋, I'm Atharva Chavhan
 
-About Me
-I am an enthusiastic and inquisitive individual with a passion for understanding the universe's mysteries. With a background in Electronics and Telecommunication, I have a strong foundation in science and technology, and I'm always eager to explore new ideas and perspectives. I am a fast learner and a dedicated professional, open to new experiences that enhance my skills and broaden my horizons. My goal is to work in dynamic environments that challenge me and help me achieve my full potential.
+### A idiot who loves to work with software
 
-Education
-B.Tech in Electronics and Telecommunication
-Sardar Patel Institute of Technology, Mumbai
-2022 - Present
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvachavhan&label=Profile views&color=0e75b6&style=flat" alt="atharvachavhan" /> </p>
 
-Higher Secondary Education (H.S.C.)
-M. H High School & Junior College, Thane
-2019 - 2021
+- 🔭 I'm currently working on **A Gradio web app that hosts a team of specialized agents (email, research, data, report, decision) built with LangChain/LangGraph and LangSmith tracing**
 
-Skills
-Programming Languages: C, Java, Python
-Technical Skills: CAD modeling with AutoCAD, Microsoft Office
-Soft Skills: Creative, leadership qualities, decision-making, organizational skills, excellent communication, team player, detail-oriented
-Project: Quiz or Exam Management System
-This project is a Java-based Quiz or Exam Management System that facilitates the creation, management, and tracking of quizzes or exams. Built using Java Swing (JFrame) for the user interface, it integrates with a MySQL database to store and retrieve data, providing a smooth and interactive experience for administrators and students.
+- 🌱 I'm currently learning **New age Ai Technologies**
 
-Features
-Admin Panel:
+- 👯 I'm looking to collaborate on **ML projects and SD projects**
 
-Create, update, and delete quizzes and questions.
-Monitor student performance and generate reports.
-Manage student accounts and quiz schedules.
-Student Panel:
-User-friendly login system for students to take quizzes.
-Immediate feedback upon quiz submission.
-View past performance and analyze progress.
-Tech Stack
-Programming Language: Java
-Database: MySQL
-IDE: NetBeans
-GUI Framework: Java Swing (JFrame)
-Setup Instructions
-Install Java Development Kit (JDK): Make sure Java is installed on your machine.
-Install MySQL: Set up a MySQL server and create a database for the application.
-Import the Project in NetBeans: Clone or download the repository and import it into NetBeans.
-Configure Database Connection: Update database connection settings in the code.
-Run the Project: Compile and run the project from NetBeans.
-Future Enhancements
-Adding timer functionality for quizzes.
-Implementing role-based access for multi-level user management.
-Enhancing security features and adding password recovery options.
+- 💬 Ask me about **My failures**
 
-Achievements
-Represented my school in quiz competitions.
-Won gold and bronze medals in Abacus and Vedic Math.
-Leadership experience in college-level competitions.
+- 📫 How to reach me **chavhanayc@gmail.com**
+
+- ⚡ Fun fact **I think i am IronMan**
+
+- 👨‍💻 All of my projects are available at **[https://achavhan.netlify.app/](https://achavhan.netlify.app/)**
+
+- 📄 Know about my experiences **[https://l1nk.dev/jliwnd8](https://l1nk.dev/jliwnd8)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/atharvachavhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="atharvachavhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/atharva-chavhan-b28728252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atharva-chavhan-b28728252/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/ft.chavhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ft.chavhan/" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@atharvachavhan12345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@atharvachavhan12345" height="30" width="40" /></a>
+<a href="https://leetcode.com/https://leetcode.com/u/ft-chavhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ft-chavhan/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+
