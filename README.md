@@ -1,6 +1,6 @@
 # Hi 👋, I'm Atharva Chavhan
 
-### A idiot who loves to work with software
+### An idiot who loves to work with software
 
 - 🔭 I'm currently working on **A Gradio web app that hosts a team of specialized agents (email, research, data, report, decision) built with LangChain/LangGraph and LangSmith tracing**
 
